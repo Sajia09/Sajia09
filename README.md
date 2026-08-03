@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Developer
 -------------------
 
-I'm a CSE major undergrade student at Jahangirnagar University. I'm currently learning MERN stack.
+
 
 * 🌍  I'm based in Dhaka, Bangladesh
-* ✉️  You can contact me at [sajiaa09@gmail.com](mailto:sajia.cse@iubat.edu)
+* ✉️  You can contact me at [sajia.cse@iubat.edu](mailto:sajia.cse@iubat.edu)
 * 🧠  I'm learning React, MongoDB, Nodejs
 
 ### Skills
